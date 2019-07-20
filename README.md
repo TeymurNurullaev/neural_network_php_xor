@@ -3,10 +3,10 @@
 
 Вызов
 
-<?php
+
 
 (new N)->start();
 
-?>
+
 
 За пример взята статья http://itnan.ru/post.php?c=1&p=321642
